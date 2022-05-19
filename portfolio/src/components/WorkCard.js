@@ -1,28 +1,22 @@
-import "./WorkCardStyles.css";
-import soloTraveller from "../assets/soloTraveller.png";
-import { NavLink } from "react-router-dom";
-
 import React from "react";
 
-const WorkCard = () => {
+import "./WorkCardStyles.css";
+import { NavLink } from "react-router-dom";
+
+const WorkCard = (props) => {
   return (
-    <div className="Work-container">
-      <h1 className="project-heading">Project 1</h1>
-      <div className="project-container">
-        <div className="project-card">
-          <img src={soloTraveller} alt="" />
-          <h2 className="project-title">Project Title</h2>
-          <div className="pro-details">
-            <p>This is the project text.</p>
-            <div className="pro-btns">
-              <NavLink to="url.com" className="btn">
-                View
-              </NavLink>
-              <NavLink to="url.com" className="btn">
-                Source
-              </NavLink>
-            </div>
-          </div>
+    <div className="project-card">
+      <img src={props.imgsrc} alt="" />
+      <h2 className="project-title">{props.title}</h2>
+      <div className="pro-details">
+        <p>{props.text}</p>
+        <div className="pro-btns">
+          <NavLink to={props.view} className="btn">
+            View
+          </NavLink>
+          <NavLink to={props.source} className="btn">
+            Source
+          </NavLink>
         </div>
       </div>
     </div>
