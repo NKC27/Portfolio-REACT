@@ -8,6 +8,7 @@ import {
   FaFacebook,
   FaTwitter,
   FaLinkedin,
+  FaGithub,
 } from "react-icons/fa";
 
 const Footer = () => {
@@ -18,8 +19,8 @@ const Footer = () => {
           <div className="location">
             <FaHome size={20} style={{ color: "#fff", marginRight: "2rem" }} />
             <div>
-              <p>Some information Here</p>
-              <p>Something Here</p>
+              <p>Oxfordshire</p>
+              <p>OXON</p>
             </div>
           </div>
           <div className="phone">
@@ -46,14 +47,22 @@ const Footer = () => {
           {/* <p>Information on Something Here</p> */}
           <div className="social">
             <FaFacebook
+              onClick={() => window.open("https://facebook.com/")}
               size={30}
               style={{ color: "#fff", marginRight: "1rem" }}
             />
             <FaTwitter
+              onClick={() => window.open("https://twitter.com/")}
               size={30}
               style={{ color: "#fff", marginRight: "1rem" }}
             />
             <FaLinkedin
+              onClick={() => window.open("https://linkedin.com/")}
+              size={30}
+              style={{ color: "#fff", marginRight: "1rem" }}
+            />
+            <FaGithub
+              onClick={() => window.open("https://github.com/nkc27")}
               size={30}
               style={{ color: "#fff", marginRight: "1rem" }}
             />

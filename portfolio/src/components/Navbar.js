@@ -11,7 +11,7 @@ const Navbar = () => {
 
   const [color, setColor] = useState(false);
   const changeColor = () => {
-    if (window.scrolly >= 100) {
+    if (window.scrollY >= 100) {
       setColor(true);
     } else {
       setColor(false);
@@ -26,9 +26,6 @@ const Navbar = () => {
         <h1>NKC Portfolio</h1>
       </Link>
       <ul className={click ? "nav-menu active" : "nav-menu"}>
-        <li>
-          <Link to="/Home">Home</Link>
-        </li>
         <li>
           <Link to="/About">About Me</Link>
         </li>
