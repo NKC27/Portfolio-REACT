@@ -67,10 +67,10 @@ const Footer = () => {
               style={{ color: "#fff", marginRight: "1rem" }}
             />
           </div>
+          <div></div>
         </div>
       </div>
     </div>
   );
 };
-
 export default Footer;
