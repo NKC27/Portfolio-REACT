@@ -30,6 +30,7 @@ const AboutContent = () => {
           <button class="btn">Contact</button>
         </Link>
         <br />
+        <h1> Please see below where you can download my CV. Thank you</h1>
         <a href="Nick_Clarke_CV.pdf" download="../Nick_Clarke_CV.pdf">
           <button class="btn">Download my CV</button>
         </a>
