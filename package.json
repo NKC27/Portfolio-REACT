@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "react-typical": "^0.1.3",
-    "homepage": "https://nkc27.github.io/my-app"
+    "react-typical": "^0.1.3"
   }
 }
