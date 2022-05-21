@@ -29,7 +29,12 @@ const AboutContent = () => {
         <Link to="/contact">
           <button class="btn">Contact</button>
         </Link>
+        <br />
+        <a href="Nick_Clarke_CV.pdf" download="../Nick_Clarke_CV.pdf">
+          <button class="btn">Download my CV</button>
+        </a>
       </div>
+
       <div className="right">
         <div className="img-container">
           <div className="img-stack-top">

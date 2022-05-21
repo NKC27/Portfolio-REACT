@@ -13,24 +13,24 @@ const HeroImage = () => {
       </div>
       <div className="content">
         <h1>
-          HI, I CAN USE{" "}
+          HI, I'M NICK{" "}
           <Typical
             steps={[
-              "HTML5",
+              "HTML5 CODE",
               5000,
-              "CSS3",
+              "CSS3 STYLING",
               5000,
-              "JAVASCRIPT",
+              "JAVASCRIPT DEVELOPMENT",
               5000,
               "NODEJS",
               5000,
               "NPM",
               5000,
-              "MONGDB",
+              "MONGDB DATABASE",
               5000,
               "MYSQL2",
               5000,
-              "HEROKU",
+              "HEROKU DEPLOYMENT",
               5000,
               "GITHUB",
               5000,
@@ -38,13 +38,13 @@ const HeroImage = () => {
               5000,
               "AMAZON S3",
               5000,
-              "BOOTSTRAP",
+              "BOOTSTRAP FRAMEWORK",
               5000,
               "TAILWIND",
               5000,
               "REACT",
               5000,
-              "GRAPPHQL",
+              "GRAPHQL",
               5000,
               "API's",
               5000,
