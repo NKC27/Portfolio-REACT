@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Portfolio-REACT/static/css/main.fb0c0f51.css",
+    "main.js": "/Portfolio-REACT/static/js/main.0c61710e.js",
+    "static/media/soloTraveller.png": "/Portfolio-REACT/static/media/soloTraveller.1175d87749114faf35a0.png",
+    "static/media/SMU-Snapshot.png": "/Portfolio-REACT/static/media/SMU-Snapshot.a9efc793eef7cb52587b.png",
+    "static/media/bkg4.jpg": "/Portfolio-REACT/static/media/bkg4.776b09ad62a4aaa5443f.jpg",
+    "static/media/profilePicture.png": "/Portfolio-REACT/static/media/profilePicture.e4a01c388dbc44ccdd70.png",
+    "static/media/CaptureWorkDayScheduler.jpeg": "/Portfolio-REACT/static/media/CaptureWorkDayScheduler.a58ae4d0b14c5f72dbb9.jpeg",
+    "static/media/VSLogo.png": "/Portfolio-REACT/static/media/VSLogo.b030550b92a704944fe7.png",
+    "static/media/noteTakerapp.png": "/Portfolio-REACT/static/media/noteTakerapp.a557ed206d3202d4e5ec.png",
+    "static/media/ChatApp.png": "/Portfolio-REACT/static/media/ChatApp.5c0f84080556e0751c10.png",
+    "static/media/TeamGenerator.png": "/Portfolio-REACT/static/media/TeamGenerator.9550d8730d7f7f385012.png",
+    "static/media/css3.png": "/Portfolio-REACT/static/media/css3.f60e6f3730a45717de11.png",
+    "static/media/BootstrapLogo.png": "/Portfolio-REACT/static/media/BootstrapLogo.67cad46170f177634ae0.png",
+    "static/media/html5.png": "/Portfolio-REACT/static/media/html5.b3bd8e31716efe8c87d7.png",
+    "static/media/react.png": "/Portfolio-REACT/static/media/react.8e733f1d02e43830edcd.png",
+    "static/media/JSLogo.png": "/Portfolio-REACT/static/media/JSLogo.1558bc3847aa5cdf8579.png",
+    "static/media/mongodb.png": "/Portfolio-REACT/static/media/mongodb.206711f9b7318003107b.png",
+    "static/media/MySQL2.png": "/Portfolio-REACT/static/media/MySQL2.042e0adfbd309fdceb26.png",
+    "static/media/heroku2.png": "/Portfolio-REACT/static/media/heroku2.f771599537531f81bc27.png",
+    "static/media/npm-logo-red.jpg": "/Portfolio-REACT/static/media/npm-logo-red.c2ee194500ead37cb11e.jpg",
+    "index.html": "/Portfolio-REACT/index.html",
+    "main.fb0c0f51.css.map": "/Portfolio-REACT/static/css/main.fb0c0f51.css.map",
+    "main.0c61710e.js.map": "/Portfolio-REACT/static/js/main.0c61710e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb0c0f51.css",
+    "static/js/main.0c61710e.js"
+  ]
+}
