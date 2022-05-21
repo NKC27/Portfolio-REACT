@@ -26,7 +26,7 @@ const AboutContent = () => {
           server side. I enjoy learning and will continue to expand my knowledge
           in a variety of web development fields.
         </p>
-        <Link to="/contact">
+        <Link to="/Portfolio-REACT/contact">
           <button class="btn">Contact</button>
         </Link>
         <br />

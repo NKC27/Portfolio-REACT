@@ -56,10 +56,10 @@ const HeroImage = () => {
           />
         </h1>
         <div className="">
-          <Link to="/project" className="btn">
+          <Link to="/Portfolio-REACT/project" className="btn">
             PROJECTS
           </Link>
-          <Link to="/contact" className="btn btn-light">
+          <Link to="/Portfolio-REACT/contact" className="btn btn-light">
             CONTACT
           </Link>
         </div>
