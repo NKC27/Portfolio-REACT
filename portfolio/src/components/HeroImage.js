@@ -1,7 +1,7 @@
 import "./HeroImageStyles.css";
 import React from "react";
 
-import IntroImg from "../assets/bkg3.jpg";
+import IntroImg from "../assets/bkg4.jpg";
 import { Link } from "react-router-dom";
 import Typical from "react-typical";
 
